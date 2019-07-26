@@ -1,6 +1,6 @@
 # Own ignores
 
-**/resc/
+**/resc/pdf
 
 # Temporary and binary files
 *~
