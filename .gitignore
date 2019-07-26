@@ -1,3 +1,7 @@
+# Own ignores
+
+**/resc/
+
 # Temporary and binary files
 *~
 *.py[cod]
