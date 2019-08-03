@@ -1,7 +1,8 @@
 # Own ignores
 
 **/resc/pdf
-**/resc/data
+**/resc/data/step-00
+**/resc/data/step-01/cats-vs-dogs
 **/note/coursera
 
 # Temporary and binary files
