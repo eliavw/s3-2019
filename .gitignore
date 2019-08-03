@@ -1,6 +1,8 @@
 # Own ignores
 
 **/resc/pdf
+**/resc/data
+**note/coursera
 
 # Temporary and binary files
 *~
